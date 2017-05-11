@@ -1,0 +1,89 @@
+#twitterIcon{
+  color:blue;
+}
+#githubIcon{
+  color:blue;
+}
+#linkedinIcon{
+  color:blue;
+}
+#fireIcon{
+  color:blue;
+}
+.block{
+  background-color:black;
+  opacity:.9;
+  padding:10px;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:20px;
+}
+
+.nav-pills{
+ 
+  font-size:1.7em;
+  background-color:black;
+  margin-bottom:10%;
+
+}
+body{
+  background-color:black;
+   font-family:Lobster;
+  
+}
+h1{
+  padding:0;
+  margin-top:2px;
+  color:white;
+  font-size:5.0em;
+}
+h2{
+  margin-top:0.9px;
+  color:white
+}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:blue;
+  font-size:1.7em;
+}
+.pageOne{
+  background:url("http://freephotofactory.com/wp-content/uploads/2015/04/iphone-sunglasses-and-pencils.jpg");
+    background-size:cover;
+  height:800px;
+}
+.pageTwo{
+  background:url("http://www.fg-a.com/wallpapers/2017-5-geometric-background.jpg");
+  background-size:cover;
+  height:700px;
+  padding-top:2%;
+  
+}
+
+p{
+  font-size:2.0em;
+  height:50px;
+  color:brown;
+}
+
+.me{
+   margin-left:800px;
+  border-radius:50%;
+  margin-top:-120px
+  
+}
+.pageThree{
+  background:url("http://www.fg-a.com/wallpapers/black-background-block-shapes.jpg");
+  background-size:cover;
+  height:600px;
+  margin-top:40%
+}
+.a{
+ padding-top:25px;
+}
+.pageFour{
+  background:url("https://unsplash.it/458/354?image=0");
+  background-size:cover;
+  height:1000px;
+}
